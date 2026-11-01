@@ -1,4 +1,4 @@
-# aleva-se
+# Aleva
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,146 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-aleva-se is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://aleva.se/
+Aleva provides Swedish data infrastructure for AI agents, offering open data APIs that connect APIs, files and other data sources, making them available as API and MCP servers. Their platform serves datasets from .se and .nu domains, weather from SMHI, statistics from SCB and Kolada, discontinued medicines, interest rates from the Riksbank, parliamentary votes, and more. All infrastructure runs in Sweden, ensuring data residency. They plan to open limited access to companies after 2027, with interest registration via email or SMS.
+
+**Areas:** Swedish · DataInfrastructure · AI · OpenData · APIs · GovernmentData
+
+## Aleva on APIs.io
+
+Everything profiled for Aleva is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aleva-se/](https://apis.io/providers/aleva-se/)** — or go straight to one of the APIs or properties below.
+
+### APIs (17)
+
+- [Aleva Aviation API](https://apis.io/apis/aleva-se/aleva-se-aviation-api/) — The Aviation API from Aleva — 2 operation(s) for aviation.
+- [Aleva Courts API](https://apis.io/apis/aleva-se/aleva-se-courts-api/) — The Courts API from Aleva — 2 operation(s) for courts.
+- [Aleva Domains API](https://apis.io/apis/aleva-se/aleva-se-domains-api/) — The Domains API from Aleva — 5 operation(s) for domains.
+- [Aleva Economy API](https://apis.io/apis/aleva-se/aleva-se-economy-api/) — The Economy API from Aleva — 2 operation(s) for economy.
+- [Aleva Energy API](https://apis.io/apis/aleva-se/aleva-se-energy-api/) — The Energy API from Aleva — 2 operation(s) for energy.
+- [Aleva Foods API](https://apis.io/apis/aleva-se/aleva-se-foods-api/) — The Foods API from Aleva — 1 operation(s) for foods.
+- [Aleva Jobs API](https://apis.io/apis/aleva-se/aleva-se-jobs-api/) — The Jobs API from Aleva — 2 operation(s) for jobs.
+- [Aleva Medicines API](https://apis.io/apis/aleva-se/aleva-se-medicines-api/) — The Medicines API from Aleva — 3 operation(s) for medicines.
+- [Aleva Municipalities API](https://apis.io/apis/aleva-se/aleva-se-municipalities-api/) — The Municipalities API from Aleva — 2 operation(s) for municipalities.
+- [Aleva Rates API](https://apis.io/apis/aleva-se/aleva-se-rates-api/) — The Rates API from Aleva — 2 operation(s) for rates.
+- [Aleva Riksdag API](https://apis.io/apis/aleva-se/aleva-se-riksdag-api/) — The Riksdag API from Aleva — 2 operation(s) for riksdag.
+- [Aleva Stats API](https://apis.io/apis/aleva-se/aleva-se-stats-api/) — The Stats API from Aleva — 2 operation(s) for stats.
+- [Aleva Sweden API](https://apis.io/apis/aleva-se/aleva-se-sweden-api/) — The Sweden API from Aleva — 4 operation(s) for sweden.
+- [Aleva Tourism API](https://apis.io/apis/aleva-se/aleva-se-tourism-api/) — The Tourism API from Aleva — 3 operation(s) for tourism.
+- [Aleva Trains API](https://apis.io/apis/aleva-se/aleva-se-trains-api/) — The Trains API from Aleva — 2 operation(s) for trains.
+- [Aleva Weather API](https://apis.io/apis/aleva-se/aleva-se-weather-api/) — The Weather API from Aleva — 2 operation(s) for weather.
+- [Aleva Web API](https://apis.io/apis/aleva-se/aleva-se-web-api/) — The Web API from Aleva — 7 operation(s) for web.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Aleva Se Agentic Access](https://apis.io/agentic-access/aleva-se/aleva-se-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [Meta](https://apis.io/schemas/aleva-se/aleva-se-meta/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Aleva Se Context](https://apis.io/jsonld/aleva-se/aleva-se-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Aleva API Rules](https://apis.io/rules/aleva-se/aleva-se-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aleva Se Authentication](https://apis.io/security/aleva-se/aleva-se-authentication/)
+- [Aleva Se Domain Security](https://apis.io/security/aleva-se/aleva-se-domain-security/)
+- [Aleva Se Vulnerability Disclosure](https://apis.io/security/aleva-se/aleva-se-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Aleva Se Scopes](https://apis.io/scopes/aleva-se/aleva-se-scopes/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Aleva Se Rate Limits](https://apis.io/rate-limits/aleva-se/aleva-se-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aleva.se/)
+- [Documentation](https://aleva.se/docs)
+- [Getting started](https://aleva.se/docs#start)
+- [API reference](https://api.aleva.se/v1/web/apis)
+- [Support](https://aleva.se/#form)
+- [Security](https://aleva.se/en/security)
+- [Privacy policy](https://aleva.se/en/privacy)
+
+## API Evangelist rating
+
+**Kin Score 50.4** — developing · rubric 0.26.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 53.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 29.5 |
+| Developer ergonomics | 61.2 |
+| Access clarity | 10.5 |
+
+**Agent readiness 42.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 33.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aleva-se/](https://apis.io/providers/aleva-se/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Aleva: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aleva-se/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
